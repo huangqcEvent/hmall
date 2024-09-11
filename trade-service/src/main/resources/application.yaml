@@ -1,0 +1,21 @@
+server:
+  port: 8085
+hm:
+  db:
+    database: hm-trade
+    host: 192.168.31.128
+    un: root
+    port: 3307
+    pw: 123
+  swagger:
+    title: "黑马商城订单接口文档"
+    package: com.hmall.trade.controller
+    desc: "黑马商城订单接口文档"
+feign:
+  okhttp:
+    enabled: true
+  sentinel:
+    enabled: true # 开启feign对sentinel的支持
+spring:
+  application:
+    name: trade-service

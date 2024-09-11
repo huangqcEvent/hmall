@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c670986a-26d9-459b-9e87-189901b12b6b" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2kjeSTII0F9N8Y736mJmrqSDg2S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.17035776" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\ideaProject\hmall\search-service\src\main\resources" />
+      <recent name="D:\idea\ideaProject\hmall\search-service\src\main\java\com\hmall\search" />
+      <recent name="D:\idea\ideaProject\hmall\search-service\src\main\java\com\hmall\search\controller" />
+      <recent name="D:\idea\ideaProject\hmall\user-service\src\main\resources" />
+      <recent name="D:\idea\ideaProject\hmall\trade-service\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\27107\Desktop\item-service\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hmall.search.domain.dto" />
+      <recent name="com.hmall.search" />
+      <recent name="com.hmall.search.mapper" />
+      <recent name="com.hmall.cart.listener" />
+      <recent name="com.hmall.gateway.utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ElasticSearchTest.testAgg">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchTest.testAgg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmall.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmall.search" />
+      <option name="MAIN_CLASS_NAME" value="com.hmall.search.ElasticSearchTest" />
+      <option name="METHOD_NAME" value="testAgg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchTest.testBool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmall.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmall.search" />
+      <option name="MAIN_CLASS_NAME" value="com.hmall.search.ElasticSearchTest" />
+      <option name="METHOD_NAME" value="testBool" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchTest.testHighlight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmall.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmall.search" />
+      <option name="MAIN_CLASS_NAME" value="com.hmall.search.ElasticSearchTest" />
+      <option name="METHOD_NAME" value="testHighlight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchTest.testPageAndSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmall.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmall.search" />
+      <option name="MAIN_CLASS_NAME" value="com.hmall.search.ElasticSearchTest" />
+      <option name="METHOD_NAME" value="testPageAndSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchTest.testTerm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmall.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmall.search" />
+      <option name="MAIN_CLASS_NAME" value="com.hmall.search.ElasticSearchTest" />
+      <option name="METHOD_NAME" value="testTerm" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cart-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmall.cart.CartApplication" />
+      <option name="ACTIVE_PROFILES" value="local" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hm-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmall.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HMallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hm-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmall.HMallApplication" />
+      <option name="ACTIVE_PROFILES" value="local" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemApplication 2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmall.item.ItemApplication" />
+      <option name="ACTIVE_PROFILES" value="local" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8083" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmall.item.ItemApplication" />
+      <option name="ACTIVE_PROFILES" value="local" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pay-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmall.pay.PayApplication" />
+      <option name="ACTIVE_PROFILES" value="local" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="search-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmall.search.SearchApplication" />
+      <option name="ACTIVE_PROFILES" value="local" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TradeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="trade-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmall.trade.TradeApplication" />
+      <option name="ACTIVE_PROFILES" value="local" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmall.user.UserApplication" />
+      <option name="ACTIVE_PROFILES" value="local" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ElasticSearchTest.testTerm" />
+      <item itemvalue="JUnit.ElasticSearchTest.testBool" />
+      <item itemvalue="JUnit.ElasticSearchTest.testPageAndSort" />
+      <item itemvalue="JUnit.ElasticSearchTest.testHighlight" />
+      <item itemvalue="JUnit.ElasticSearchTest.testAgg" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.SearchApplication" />
+      <item itemvalue="Spring Boot.TradeApplication" />
+      <item itemvalue="Spring Boot.CartApplication" />
+      <item itemvalue="Spring Boot.ItemApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.ItemApplication 2" />
+      <item itemvalue="Spring Boot.PayApplication" />
+      <item itemvalue="Spring Boot.HMallApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ElasticSearchTest.testAgg" />
+        <item itemvalue="JUnit.ElasticSearchTest.testHighlight" />
+        <item itemvalue="JUnit.ElasticSearchTest.testPageAndSort" />
+        <item itemvalue="JUnit.ElasticSearchTest.testBool" />
+        <item itemvalue="JUnit.ElasticSearchTest.testTerm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\27107\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c670986a-26d9-459b-9e87-189901b12b6b" name="默认变更列表" comment="" />
+      <created>1723801413624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723801413624</updated>
+      <workItem from="1723801414782" duration="467000" />
+      <workItem from="1724033110667" duration="5978000" />
+      <workItem from="1724040113968" duration="158000" />
+      <workItem from="1724040279754" duration="16836000" />
+      <workItem from="1724070953368" duration="925000" />
+      <workItem from="1724115240580" duration="2854000" />
+      <workItem from="1724127588050" duration="679000" />
+      <workItem from="1724140849183" duration="8196000" />
+      <workItem from="1724201691816" duration="6312000" />
+      <workItem from="1724211626800" duration="9314000" />
+      <workItem from="1724291959221" duration="1675000" />
+      <workItem from="1724293653830" duration="11104000" />
+      <workItem from="1724374677143" duration="611000" />
+      <workItem from="1724380260656" duration="9085000" />
+      <workItem from="1724404883171" duration="2408000" />
+      <workItem from="1724495084542" duration="1977000" />
+      <workItem from="1724635941668" duration="9369000" />
+      <workItem from="1724719828902" duration="14788000" />
+      <workItem from="1724808633705" duration="8172000" />
+      <workItem from="1724893499770" duration="8166000" />
+      <workItem from="1724931642958" duration="1884000" />
+      <workItem from="1724979225481" duration="9041000" />
+      <workItem from="1725008338399" duration="1308000" />
+      <workItem from="1725243329583" duration="2221000" />
+      <workItem from="1725326612873" duration="12222000" />
+      <workItem from="1725411448499" duration="9568000" />
+      <workItem from="1725497846320" duration="10156000" />
+      <workItem from="1725863688574" duration="612000" />
+      <workItem from="1725886990984" duration="1395000" />
+      <workItem from="1725929769239" duration="23495000" />
+      <workItem from="1725974241726" duration="812000" />
+      <workItem from="1726016041155" duration="21346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-server/3.1.3/spring-cloud-gateway-server-3.1.3.jar!/org/springframework/cloud/gateway/filter/NettyRoutingFilter.class</url>
+          <line>62</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="itemDoc" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

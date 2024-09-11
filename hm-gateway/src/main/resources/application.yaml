@@ -1,0 +1,14 @@
+server:
+  port: 8080
+hm:
+  jwt:
+    location: ${HM_JWT_KEYSTORE_LOCATION}
+    alias: hmall
+    password: ${HM_JWT_KEYSTORE_PASSWORD}
+    tokenTTL: 30m
+  auth:
+    excludePaths:
+      - /search/**
+      - /users/login
+      - /items/**
+      - /hi

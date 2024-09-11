@@ -1,0 +1,21 @@
+server:
+  port: 8081
+feign:
+  okhttp:
+    enabled: true
+  sntinel:
+    enabled: true # 开启feign对sentinel的支持
+hm:
+  db:
+    database: hm-item
+    host: 192.168.31.128
+    un: root
+    port: 3307
+    pw: 123
+  swagger:
+    title: "黑马商城商品接口文档"
+    package: com.hmall.item.controller
+    desc: "黑马商城商品接口文档"
+spring:
+  application:
+    name: item-service
