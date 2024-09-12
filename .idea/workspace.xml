@@ -93,17 +93,6 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.ElasticSearchTest.testAgg">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ElasticSearchTest.testAgg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="search-service" />
       <extension name="coverage">
